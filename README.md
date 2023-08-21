@@ -1,9 +1,9 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
   "elmType": "button",
-  "txtContent": "Start flow",
+  "txtContent": "Submit",
   "customRowAction": {
     "action": "executeFlow",
-    "actionParams": "{\"id\": \"2c5dfcb2-aa4e-4cfd-9baf-2485225b1fa4\"}"
+    "actionParams": "{\"id\": \"5b668945-4e53-4d45-bbae-6174f7f8af11\"}"
   }
 }
